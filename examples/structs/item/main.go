@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/jupiterrider/ffi"
+	"github.com/iGxnon/ffi"
 )
 
 type Category uint32

@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/jupiterrider/ffi"
+	"github.com/iGxnon/ffi"
 )
 
 func main() {

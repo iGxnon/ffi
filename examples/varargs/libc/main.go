@@ -5,7 +5,7 @@ import (
 	"math"
 	"runtime"
 
-	"github.com/jupiterrider/ffi"
+	"github.com/iGxnon/ffi"
 )
 
 func main() {

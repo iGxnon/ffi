@@ -1,4 +1,4 @@
-//go:build !ffi_no_embed && (darwin || (windows && amd64))
+//go:build !ffi_no_embed
 
 package ffi
 
@@ -23,7 +23,7 @@ func init() {
 		return
 	}
 
-	destDir := filepath.Join(userCacheDir, "github.com/jupiterrider/ffi/libffi", libffiVersion)
+	destDir := filepath.Join(userCacheDir, "libffi", libffiVersion)
 	destLib := filepath.Join(destDir, libname)
 	destLicense := filepath.Join(destDir, "LICENSE")
 

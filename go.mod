@@ -1,4 +1,4 @@
-module github.com/jupiterrider/ffi
+module github.com/iGxnon/ffi
 
 go 1.18
 

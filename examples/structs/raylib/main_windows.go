@@ -9,7 +9,7 @@ import (
 
 	_ "embed"
 
-	"github.com/jupiterrider/ffi"
+	"github.com/iGxnon/ffi"
 )
 
 type Texture struct {

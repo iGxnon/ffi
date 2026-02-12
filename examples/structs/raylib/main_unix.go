@@ -10,7 +10,7 @@ import (
 	_ "embed"
 
 	"github.com/ebitengine/purego"
-	"github.com/jupiterrider/ffi"
+	"github.com/iGxnon/ffi"
 )
 
 type Texture struct {

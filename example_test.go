@@ -5,7 +5,7 @@ import (
 	"math"
 	"unsafe"
 
-	"github.com/jupiterrider/ffi"
+	"github.com/iGxnon/ffi"
 )
 
 func ExamplePrepClosureLoc() {
